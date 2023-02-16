@@ -8,8 +8,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 
 ## Overview
 This project create a QR code page to link to frontendmentor.io
@@ -18,7 +16,7 @@ This project create a QR code page to link to frontendmentor.io
 
 
 ### Links
-- Solution URL: [)
+- Solution URL: []
 - Live Site URL: https://shimmering-torrone-61a8cd.netlify.app/
 
 
