@@ -17,7 +17,7 @@ This project create a QR code page to link to frontendmentor.io
 
 
 ### Links
-- Solution URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/i-make-of-css-flex-to-arrange-the-scan-area-at-the-middle-JRjCTW8eGH]
 - Live Site URL: https://shimmering-torrone-61a8cd.netlify.app/
 
 
