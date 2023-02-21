@@ -13,6 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This project create a QR code page to link to frontendmentor.io
 
 ### Screenshot
+![Screenshot (106)](https://user-images.githubusercontent.com/79846013/220435626-1a5350d1-f23b-4f9a-8b52-28eb73d0f8d4.png)
 
 
 ### Links
